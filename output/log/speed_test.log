@@ -1,8 +1,8 @@
-Name: CCTV-5, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 308 ms, Speed: 5.00 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 384 ms, Speed: 10.62 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 358 ms, Speed: 9.61 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1975 ms, Speed: 1.17 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://112.254.55.106:22222/rtp/239.253.254.110:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 490 ms, Speed: 0.04 M/s, Resolution: 1920x1080
-Name: CETV-4, URL: http://112.254.55.106:22222/rtp/239.253.254.116:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 522 ms, Speed: 0.05 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 2744 ms, Speed: 1.68 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1581 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 307 ms, Speed: 4.40 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 426 ms, Speed: 10.04 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 458 ms, Speed: 10.02 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1984 ms, Speed: 1.16 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: http://112.254.55.106:22222/rtp/239.253.254.116:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 541 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://112.254.55.106:22222/rtp/239.253.254.110:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 519 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 2776 ms, Speed: 1.66 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 537 ms, Speed: 0.01 M/s, Resolution: 1920x1080
