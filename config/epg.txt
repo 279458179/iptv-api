@@ -1,22 +1,7 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
 
+http://epg.51zmt.top:8000/cc.xml
+https://epg.erw.cc/api/diyp/?ch={name}&date={date}
+https://epg.112114.xyz/?ch={name}&date={date}
 http://epg.51zmt.top:8000/e.xml
-https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
-https://epg.pw/xmltv.xml.gz
-https://epghub.xyz/xmltv/china.xml
-http://epg.51zmt.top:8000
-https://raw.githubusercontent.com/iptv-org/epg/master/guide.xml
-https://epg.best/xmltv.xml
-https://myepg.org/Zhejiang_Telecom_IPTV/EPG/hz_uni_epg.xml.gz
-http://epgshare01.online/epg.xml
-https://epg.112114.xyz/xmltv.xml
-https://cctv-chn.samsam123.tk/cctv-epg.xml
-https://raw.githubusercontent.com/supzhang/epg/master/guide.xml
-http://epg.51zmt.top:8000/xmltv.xml.gz
-https://raw.githubusercontent.com/followheart/EPG-test/main/tvxml-test.xml.gz
-https://raw.githubusercontent.com/globetvapp/epg/main/China/china.xml
-https://epg.iptv-org.workers.dev/guide.xml
-https://epg.iptv.china.workers.dev
-https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml.xml
