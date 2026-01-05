@@ -1,13 +1,13 @@
-Category: 📺央视频道, Name: CCTV-1, Total: 182, Valid: 44, Valid Percent: 24.18%, Whitelist: 0, IPv4: 1, IPv6: 181, Min Delay: 0.1 ms, Max Speed: 1.90 M/s, Avg Speed: 0.04 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-1, Total: 182, Valid: 44, Valid Percent: 24.18%, Whitelist: 0, IPv4: 1, IPv6: 181, Min Delay: 0.1 ms, Max Speed: 14.70 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-2, Total: 193, Valid: 67, Valid Percent: 34.72%, Whitelist: 0, IPv4: 0, IPv6: 193, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-3, Total: 182, Valid: 54, Valid Percent: 29.67%, Whitelist: 0, IPv4: 0, IPv6: 182, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-4, Total: 331, Valid: 59, Valid Percent: 17.82%, Whitelist: 0, IPv4: 0, IPv6: 331, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-5, Total: 246, Valid: 38, Valid Percent: 15.45%, Whitelist: 0, IPv4: 1, IPv6: 245, Min Delay: 0.1 ms, Max Speed: 6.38 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-5, Total: 246, Valid: 38, Valid Percent: 15.45%, Whitelist: 0, IPv4: 1, IPv6: 245, Min Delay: 0.1 ms, Max Speed: 6.52 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-5+, Total: 94, Valid: 37, Valid Percent: 39.36%, Whitelist: 0, IPv4: 0, IPv6: 94, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-6, Total: 169, Valid: 35, Valid Percent: 20.71%, Whitelist: 0, IPv4: 0, IPv6: 169, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-7, Total: 188, Valid: 59, Valid Percent: 31.38%, Whitelist: 0, IPv4: 1, IPv6: 187, Min Delay: 0.1 ms, Max Speed: 13.12 M/s, Avg Speed: 0.22 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-7, Total: 188, Valid: 59, Valid Percent: 31.38%, Whitelist: 0, IPv4: 1, IPv6: 187, Min Delay: 0.1 ms, Max Speed: 15.48 M/s, Avg Speed: 0.26 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-8, Total: 176, Valid: 47, Valid Percent: 26.70%, Whitelist: 0, IPv4: 0, IPv6: 176, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-9, Total: 190, Valid: 60, Valid Percent: 31.58%, Whitelist: 0, IPv4: 1, IPv6: 189, Min Delay: 0.1 ms, Max Speed: 0.07 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-9, Total: 189, Valid: 59, Valid Percent: 31.22%, Whitelist: 0, IPv4: 0, IPv6: 189, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-10, Total: 185, Valid: 57, Valid Percent: 30.81%, Whitelist: 0, IPv4: 0, IPv6: 185, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-11, Total: 195, Valid: 66, Valid Percent: 33.85%, Whitelist: 0, IPv4: 0, IPv6: 195, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-12, Total: 193, Valid: 64, Valid Percent: 33.16%, Whitelist: 0, IPv4: 0, IPv6: 193, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -16,7 +16,7 @@ Category: 📺央视频道, Name: CCTV-14, Total: 172, Valid: 38, Valid Percent:
 Category: 📺央视频道, Name: CCTV-15, Total: 189, Valid: 63, Valid Percent: 33.33%, Whitelist: 0, IPv4: 0, IPv6: 189, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-16, Total: 42, Valid: 23, Valid Percent: 54.76%, Whitelist: 0, IPv4: 0, IPv6: 42, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-17, Total: 173, Valid: 44, Valid Percent: 25.43%, Whitelist: 0, IPv4: 0, IPv6: 173, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-1, Total: 168, Valid: 2, Valid Percent: 1.19%, Whitelist: 0, IPv4: 2, IPv6: 166, Min Delay: 450 ms, Max Speed: 0.08 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-1, Total: 168, Valid: 2, Valid Percent: 1.19%, Whitelist: 0, IPv4: 2, IPv6: 166, Min Delay: 458 ms, Max Speed: 0.06 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CETV-2, Total: 144, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 144, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺央视频道, Name: CETV-3, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺央视频道, Name: CETV-4, Total: 153, Valid: 1, Valid Percent: 0.65%, Whitelist: 0, IPv4: 1, IPv6: 152, Min Delay: 483 ms, Max Speed: 0.01 M/s, Avg Speed: 0.01 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-4, Total: 153, Valid: 1, Valid Percent: 0.65%, Whitelist: 0, IPv4: 1, IPv6: 152, Min Delay: 495 ms, Max Speed: 0.01 M/s, Avg Speed: 0.01 M/s, Max Resolution: 1920x1080
