@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-07 06:27:07,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2026-01-07 18:30:44,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
