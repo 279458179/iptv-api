@@ -15,6 +15,8 @@ if [[ ! -f output/user_result.txt ]]; then
   exit 1
 fi
 
+python scripts/validate-output.py 10
+
 tmp_dir="$(mktemp -d)"
 trap 'rm -rf "$tmp_dir"' EXIT
 

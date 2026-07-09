@@ -41,6 +41,8 @@ jobs:
         run: pipenv --python 3.13 && pipenv install --deploy
       - name: Update
         run: pipenv run dev
+      - name: Validate generated output
+        run: python scripts/validate-output.py 10
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
