@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-09 10:50:51,https://xykt-fix.github.io/Y77.m3u8
+2026-07-09 11:34:35,https://xykt-fix.github.io/Y77.m3u8
 
 CCTV,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 卫视频道,#genre#
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 地方台,#genre#
 安顺新闻综合,https://hplayer1.juyun.tv/camera/154379194.m3u8
-新疆TV3,https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
