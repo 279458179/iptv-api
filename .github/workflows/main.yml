@@ -1,16 +1,17 @@
 name: 'Update schedule'
 
-# ⚠️注意：请不要在 fork 的仓库中添加 `on: schedule` 定时任务（cron）。
-# Forks 可能被大量复制并触发定时执行，当前 GitHub Actions 资源使用已接近上限，
-# 大量 fork 的定时任务可能导致工作流被禁用。若需要定时执行，请使用其它部署方式。
-#
-# ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
-# Forks may multiply scheduled runs and GitHub Actions resource usage is near limits.
-# Many scheduled workflows from forks can cause workflows to be disabled.
-# If scheduled execution is required, use other deployment methods.
-
 on:
   workflow_dispatch:
+  schedule:
+    # Runs every day at 02:00 Asia/Shanghai.
+    - cron: '0 18 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-update
+  cancel-in-progress: true
 
 jobs:
   push:
@@ -22,11 +23,12 @@ jobs:
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ env.BRANCH_NAME }}
+          persist-credentials: true
       - name: Run with setup-python 3.13
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           update-environment: true
@@ -35,7 +37,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install pipenv
         run: pip3 install --user pipenv
-      - name: Install dependecies
+      - name: Install dependencies
         run: pipenv --python 3.13 && pipenv install --deploy
       - name: Update
         run: pipenv run dev
@@ -46,5 +48,18 @@ jobs:
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push --force
+            git push origin HEAD:${{ env.BRANCH_NAME }}
           fi
+      - name: Configure APTV sync key
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.APTV_DINGYUE_DEPLOY_KEY }}" > ~/.ssh/aptv_dingyue
+          chmod 600 ~/.ssh/aptv_dingyue
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          echo "GIT_SSH_COMMAND=ssh -i ~/.ssh/aptv_dingyue -o IdentitiesOnly=yes" >> $GITHUB_ENV
+      - name: Sync output to APTV-dingyue
+        env:
+          APTV_SYNC_REPO: git@github.com:279458179/APTV-dingyue.git
+          APTV_SYNC_BRANCH: main
+          APTV_EPG_URL: https://raw.githubusercontent.com/279458179/APTV-dingyue/main/epg.gz
+        run: bash scripts/sync-to-aptv.sh
