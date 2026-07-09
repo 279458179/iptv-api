@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-09 11:34:35,https://xykt-fix.github.io/Y77.m3u8
+2026-07-10 03:53:59,https://xykt-fix.github.io/Y77.m3u8
 
 CCTV,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
