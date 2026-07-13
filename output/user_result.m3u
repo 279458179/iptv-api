@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/279458179/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-13 03:12:44
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-14 03:29:20
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="CCTV",CCTV-2
 http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -29,8 +29,6 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="CCTV",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="CCTV",CCTV-4K
-http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="CCTV",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="卫视频道",河北卫视
@@ -49,6 +47,16 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="地方台",哈尔滨影视
 https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-id="QTV-2" tvg-name="QTV-2" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="地方台",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV-3" tvg-name="QTV-3" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="地方台",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV-4" tvg-name="QTV-4" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="地方台",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV-5" tvg-name="QTV-5" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="地方台",QTV-5
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+#EXTINF:-1 tvg-id="通化综合" tvg-name="通化综合" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="地方台",通化综合
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="新疆TV3" tvg-name="新疆TV3" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="地方台",新疆TV3
 http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-id="新疆TV8" tvg-name="新疆TV8" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="地方台",新疆TV8

@@ -23,6 +23,7 @@ CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhong
 Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
+Shaanxi Satelital TV,http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -115,7 +116,6 @@ CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CGNTV Chinese (1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN Global Biz (1080p),https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
-Channel 8,https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
 Channel U,https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
 China Travel (1080p),https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
@@ -165,6 +165,7 @@ RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaize
 RTHK TV 32 (港台電視32) (1080p) [Geo-blocked],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK TV 33 (港台電視33) (1080p) [Geo-blocked],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 SET News (三立新聞) (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
+Shaanxi Satelital TV,http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 Taiwan Indigenous TV (720p),https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
