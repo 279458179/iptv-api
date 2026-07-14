@@ -1,16 +1,22 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/279458179/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-14 19:26:45
-http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-15 03:27:08
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="CCTV",CCTV-2
+http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="CCTV",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="CCTV",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="CCTV",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="CCTV",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="CCTV",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="CCTV",CCTV-10
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="CCTV",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="CCTV",CCTV-12
-http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="CCTV",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="CCTV",CCTV-17
@@ -27,11 +33,7 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="地方台",哈尔滨影视
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="QTV-2" tvg-name="QTV-2" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="地方台",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-id="新疆TV2" tvg-name="新疆TV2" tvg-logo="https://i.imgur.com/GXFLqxx.png" group-title="地方台",新疆TV2
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="新疆TV3" tvg-name="新疆TV3" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="地方台",新疆TV3
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-id="新疆TV8" tvg-name="新疆TV8" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="地方台",新疆TV8
-http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
