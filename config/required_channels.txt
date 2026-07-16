@@ -1,0 +1,22 @@
+# Required channels for publishing generated output.
+# If any channel below is missing from output/user_result.txt or output/user_result.m3u,
+# the workflow must stop before committing or syncing to APTV-dingyue.
+#
+# CCTV-5 and CCTV-5+ are intentionally excluded for now because the current
+# iptv-org source set does not provide stable entries for them.
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
